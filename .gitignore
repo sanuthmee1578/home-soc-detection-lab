@@ -1,0 +1,14 @@
+*.vmdk
+*.vmem
+*.vmsd
+*.vmsn
+*.nvram
+*.vmx
+*.vmxf
+*.pem
+*.key
+*.p12
+*.pfx
+wazuh-install-files.tar
+credentials*
+.env
