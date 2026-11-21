@@ -1,0 +1,3 @@
+11/21/2026-07:10:38.959222  [**] [1:1000001:2] LAB Possible TCP SYN port scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.153.128:53685 -> 192.168.153.131:8093
+11/21/2026-07:10:56.240690  [**] [1:1000001:2] LAB Possible TCP SYN port scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.153.128:48412 -> 192.168.153.131:443
+11/21/2026-07:12:05.972948  [**] [1:1000001:2] LAB Possible TCP SYN port scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.153.1:64337 -> 192.168.153.131:443

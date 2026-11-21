@@ -1,0 +1,4 @@
+rev1 (untuned) alerts in fast.log:
+1010
+rev2 (tuned) alerts in fast.log:
+3
